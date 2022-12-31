@@ -1,4 +1,3 @@
-# Dice
 # Throw Dice Project✨✨✨✨✨✨✨✨✨✨✨
 
 >Throw dice …….we can play a dice game nicely by using this code.
@@ -9,11 +8,11 @@
 
 ## Features
 
--Responsive design
+-Responsive design.
 
--storing the users data in local storage
+-storing the users data in local storage.
 
--User can easily see the number services
+-User can easily see the number services.
 
 -Used keyframe for responsive effects.
 
@@ -30,7 +29,7 @@
 
 >Link — [](https://github.com/rubynarwal/Dice)
 
-BLOG LINK> [Blog onDice] ()
+BLOG LINK> [Blog onDice] (https://medium.com/@rubynarwal21/throw-dice-project-bfa3dd9f0bc7)
 
 ## Author
 
